@@ -41,24 +41,23 @@ img {
   padding-top: .5em;
   text-transform: uppercase;
   font-weight: 400;
-  text-align: center;
 }
 
 .gd {
   text-transform: uppercase;
   font-weight: 700;
   color: #B81E4F;
-  text-align: center;
 }
 
 .para {
   font-weight: 300;
   line-height: 1.4em;
-  text-align: center;
 }
 
-.button-holder {
-  text-align: center;
+.email {
+  color: #B81E4F;
+  font-weight: 700;
+  text-align: right;
 }
 
 .buttons {
@@ -81,10 +80,6 @@ img {
     padding: 1.5em 10%;
   }
 
-  .pic {
-    width: 17em;
-  }
-
 }
 
 @media only screen and (min-width: 60em) {
@@ -98,11 +93,7 @@ img {
 @media only screen and (min-width: 90em) {
 
   .bg {
-    padding: 1.5em 30%;
-  }
-
-  .pic {
-    width: 20em;
+    padding: 1.5em 25%;
   }
 
 }
