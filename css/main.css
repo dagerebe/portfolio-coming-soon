@@ -66,7 +66,46 @@ img {
   display: inline-block;
 }
 
+@media only screen and (min-width: 22em) {
 
+  .pic {
+    width: 15em;
+    margin: 0 auto;
+  }
+
+}
+
+@media only screen and (min-width: 38em) {
+
+  .bg {
+    padding: 1.5em 10%;
+  }
+
+  .pic {
+    width: 17em;
+  }
+
+}
+
+@media only screen and (min-width: 60em) {
+
+  .bg {
+    padding: 1.5em 20%;
+  }
+
+}
+
+@media only screen and (min-width: 90em) {
+
+  .bg {
+    padding: 1.5em 30%;
+  }
+
+  .pic {
+    width: 20em;
+  }
+
+}
 
 
 
