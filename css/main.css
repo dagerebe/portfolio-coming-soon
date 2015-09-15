@@ -29,6 +29,43 @@ img {
 	width: 100%;
 }
 
+.bg {
+  padding: 1em 5%;
+}
+
+.pic {
+  border-radius: 50%;
+}
+
+.name {
+  padding-top: .5em;
+  text-transform: uppercase;
+  font-weight: 400;
+  text-align: center;
+}
+
+.gd {
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #B81E4F;
+  text-align: center;
+}
+
+.para {
+  font-weight: 300;
+  line-height: 1.4em;
+  text-align: center;
+}
+
+.button-holder {
+  text-align: center;
+}
+
+.buttons {
+  width: 4em;
+  display: inline-block;
+}
+
 
 
 

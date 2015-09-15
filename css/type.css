@@ -59,51 +59,61 @@ fieldset, pre, table {
 .yotta {
   font-size: 1.5745rem;
   line-height: 1.6513;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .zetta {
   font-size: 1.4757rem;
   line-height: 1.7619;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h1, .exa {
   font-size: 1.3830rem;
   line-height: 1.8800;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h2, .peta {
   font-size: 1.2962rem;
   line-height: 1.0030;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h3, .tera {
   font-size: 1.2148rem;
   line-height: 1.0702;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h4, .giga {
   font-size: 1.1385rem;
   line-height: 1.1419;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h5, .mega {
   font-size: 1.0670rem;
   line-height: 1.2184;
+  font-family: 'Open Sans', sans-serif;
 }
 
 h6, .kilo {
   font-size: 1.0000rem;
   line-height: 1.3000;
+  font-family: 'Open Sans', sans-serif;
 }
 
 small, .milli {
   font-size: 0.9372rem;
   line-height: 1.3871;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .micro {
   font-size: 0.8784rem;
   line-height: 1.4800;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .push {
