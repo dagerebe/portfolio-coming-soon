@@ -49,6 +49,10 @@ img {
   color: #B81E4F;
 }
 
+.line {
+  border-top: solid 3px black;
+}
+
 .para {
   font-weight: 300;
   line-height: 1.4em;
@@ -57,12 +61,15 @@ img {
 .email {
   color: #B81E4F;
   font-weight: 700;
-  text-align: right;
 }
 
 .buttons {
   width: 4em;
   display: inline-block;
+}
+
+.bottom {
+  text-align: center;
 }
 
 @media only screen and (min-width: 22em) {
