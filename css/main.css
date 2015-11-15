@@ -41,6 +41,8 @@ img {
   padding-top: .5em;
   text-transform: uppercase;
   font-weight: 400;
+  font-size: 1.6em;
+  line-height: 1.2em;
 }
 
 .gd {
@@ -50,7 +52,7 @@ img {
 }
 
 .line {
-  border-top: solid 2px black;
+  border-top: solid 1px black;
 }
 
 .para {
